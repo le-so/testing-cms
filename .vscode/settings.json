@@ -1,0 +1,9 @@
+{
+  "editor.fontFamily": "Roboto Mono",
+  "editor.fontLigatures": true,
+  "editor.detectIndentation": false,
+
+  "css.remoteStyleSheets": [
+    "https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css"
+  ]
+}

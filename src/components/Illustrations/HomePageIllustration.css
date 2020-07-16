@@ -1,0 +1,10 @@
+.home-illustration {
+  height: 100%;
+  width: 400px;
+}
+
+@media screen and (max-width: 500px) {
+  .home-illustration {
+    width: 80vw;
+  }
+}

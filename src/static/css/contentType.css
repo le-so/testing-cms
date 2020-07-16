@@ -1,0 +1,6 @@
+.content-card {
+  animation-name: fadeUp;
+  animation-duration: 500ms;
+  animation-fill-mode: both;
+  animation-timing-function: ease-in-out;
+}
