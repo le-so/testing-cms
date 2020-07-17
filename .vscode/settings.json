@@ -1,8 +1,20 @@
 {
-  "editor.fontFamily": "Roboto Mono",
+  // Editor config.
+  "editor.fontFamily": "'Inconsolata', 'Roboto Mono', monospace",
+  "editor.fontSize": 15.5,
+  "editor.letterSpacing": 0.15,
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorStyle": "block",
   "editor.fontLigatures": true,
   "editor.detectIndentation": false,
 
+  // Zen mode config.
+  "zenMode.centerLayout": false,
+  "zenMode.hideLineNumbers": false,
+  "zenMode.fullScreen": true,
+
+  // Remote stylesheets for intellisense.
   "css.remoteStyleSheets": [
     "https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css"
   ]

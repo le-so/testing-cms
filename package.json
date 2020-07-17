@@ -14,6 +14,7 @@
     "gatsby-plugin-sharp": "^2.6.14",
     "gatsby-source-filesystem": "^2.3.14",
     "gatsby-transformer-sharp": "^2.5.7",
+    "lodash": "^4.17.19",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
@@ -23,24 +24,14 @@
   "devDependencies": {
     "prettier": "2.0.5"
   },
-  "keywords": [
-    "gatsby"
-  ],
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
-    "start": "npm run develop",
+    "start": "yarn run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
-  },
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
   }
 }
