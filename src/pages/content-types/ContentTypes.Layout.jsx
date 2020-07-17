@@ -2,7 +2,7 @@ import React, { Fragment } from 'react'
 import _ from 'lodash'
 
 import ContentTypeCard from './ContentTypes.Card'
-import contentTypesData from './ContentTypes.Data'
+import contentTypesData from '../../utils/data/ContentTypes.Data'
 
 import '../../static/css/contentType.css'
 
