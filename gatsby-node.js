@@ -4,7 +4,7 @@
  * See: https://www.gatsbyjs.org/docs/node-apis/
  */
 
-exports.createPages = ({ actions }) => {
+/* exports.createPages = ({ actions }) => {
   const { createPage } = actions
 
   const contentTypes = [
@@ -18,4 +18,4 @@ exports.createPages = ({ actions }) => {
       component: require.resolve(`./src/templates/${type}.jsx`),
     })
   })
-}
+} */

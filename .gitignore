@@ -2,6 +2,8 @@
 deploy.sh
 deploy.ps1
 
+.obsolete
+
 # Logs
 logs
 *.log

@@ -8,6 +8,7 @@
   "editor.cursorStyle": "block",
   "editor.fontLigatures": true,
   "editor.detectIndentation": false,
+  "editor.renameOnType": true,
 
   // Zen mode config.
   "zenMode.centerLayout": false,
